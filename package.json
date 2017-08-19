@@ -1,0 +1,37 @@
+{
+  "name": "accent-it-services-official-website",
+  "version": "4.0.0",
+  "description": "Implementing <b>Node JS</b>, <b>MongoDB</b> and <b>EJS</b> to access and manage data from Portfolio, Clients, Products, etc.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuriishu27/accent-it-services-v4.0.git"
+  },
+  "keywords": [
+    "Accent",
+    "IT",
+    "Services"
+  ],
+  "author": "James Lomas",
+  "contributors": [
+    "Christian Ray Leovido<christian.leovido@gmail.com>",
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuriishu27/accent-it-services-v4.0/issues"
+  },
+  "homepage": "https://github.com/kuriishu27/accent-it-services-v4.0#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0"
+  }
+}
